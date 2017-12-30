@@ -11,7 +11,7 @@
          "8080/tcp": 8080
     },
     "options": {
-        "broker_host": "0.0.0.0",
+        "broker_host": "172.17.0.1",
         "broker_port": 1883,
         "preface": "smartthings",
         "state_suffix": "state",
